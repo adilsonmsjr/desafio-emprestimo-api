@@ -103,7 +103,7 @@ Retorna os empréstimos disponíveis para um cliente.
 
 Resposta obtida através do Thunder Client.
 
-![Resposta da API](images/responseTC.png)
+![Resposta da API](imgs/responseTC.png)
 ---
 
 ## Estrutura do projeto
