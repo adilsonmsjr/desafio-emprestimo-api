@@ -128,9 +128,9 @@ As requisições foram testadas utilizando o Thunder Client.
 
 ## Melhorias futuras
 
-[ ] Adicionar documentação com Swagger/OpenAPI
-[ ] Implementar testes unitários com JUnit e Mockito
-[ ] Adicionar tratamento global de exceções
-[ ] Dockerizar a aplicação
+- [ ] Adicionar documentação com Swagger/OpenAPI
+- [ ] Implementar testes unitários com JUnit e Mockito
+- [ ] Adicionar tratamento global de exceções
+- [ ] Dockerizar a aplicação
 
 ---
